@@ -4,6 +4,8 @@ import styled from 'styled-components';
 
 const ListItem = styled.li`
   display: flex;
+  padding: 10px;
+    margin: 10px;
   align-items: center;
   margin-bottom: 10px;
   border: 2px solid grey;

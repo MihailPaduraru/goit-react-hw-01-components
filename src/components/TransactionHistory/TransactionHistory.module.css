@@ -3,9 +3,12 @@
 /* TransactionHistory.module.css */
 
 .transactionHistory {
-    width: 100%;
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
     border-collapse: collapse;
     margin-top: 20px;
+    border: 1px solid black;
   }
   
   .transactionHistory th, .transactionHistory td {
